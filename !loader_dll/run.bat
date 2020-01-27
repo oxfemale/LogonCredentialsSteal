@@ -1,0 +1,1 @@
+powershell.exe -FILE load_dll.ps1
