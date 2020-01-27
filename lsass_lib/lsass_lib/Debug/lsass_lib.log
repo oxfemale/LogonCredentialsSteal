@@ -1,0 +1,5 @@
+﻿  lsass_lib.cpp
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4309: инициализация: усечение константного значения
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(14): warning C4309: инициализация: усечение константного значения
+  lsass_lib.vcxproj -> D:\projects\lsass_lib\Debug\lsass_lib.dll

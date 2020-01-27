@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  lsass_lib.cpp
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4309: инициализация: усечение константного значения
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(14): warning C4309: инициализация: усечение константного значения
+  Создание кода
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lsass_lib.vcxproj -> D:\projects\lsass_lib\x64\Release\lsass_lib.dll

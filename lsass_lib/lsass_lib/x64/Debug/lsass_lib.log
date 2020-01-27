@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  lsass_lib.cpp
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(13): warning C4309: инициализация: усечение константного значения
+d:\projects\lsass_lib\lsass_lib\lsass_lib.cpp(14): warning C4309: инициализация: усечение константного значения
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\projects\lsass_lib\x64\Debug\lsass_lib.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
